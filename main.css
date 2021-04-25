@@ -1,0 +1,14 @@
+ol,
+li {
+  list-style: none; }
+
+button {
+  margin-top: 20px; }
+
+.stop-watch-box {
+  display: inline;
+  font-size: 30px; }
+  .stop-watch-box > li {
+    display: inline; }
+
+/*# sourceMappingURL=main.css.map */

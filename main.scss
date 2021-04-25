@@ -1,0 +1,16 @@
+ol,
+li {
+  list-style: none;
+}
+
+button {
+  margin-top: 20px;
+}
+
+.stop-watch-box {
+  display: inline;
+  font-size: 30px;
+  > li {
+    display: inline;
+  }
+}
